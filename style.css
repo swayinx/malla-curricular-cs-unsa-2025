@@ -107,6 +107,7 @@ h3 {
     font-size: 0.8rem;
     color: var(--text-muted);
     margin-bottom: 5px;
+    padding-right: 30px; /* Space for checkbox to avoid overlap */
 }
 
 .course-name {
