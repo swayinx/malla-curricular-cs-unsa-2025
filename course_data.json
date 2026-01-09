@@ -1,0 +1,625 @@
+[
+  {
+    "id": "2501101",
+    "name": "FUNDAMENTOS DE LA MATEM\u00c1TICA",
+    "credits": 3,
+    "prereqs": [],
+    "year": "PRIMER A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2501102",
+    "name": "METODOLOG\u00cdA DEL TRABAJO ACAD\u00c9MICO",
+    "credits": 2,
+    "prereqs": [],
+    "year": "PRIMER A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2501103",
+    "name": "INTRODUCCI\u00d3N A LA CIENCIA DE LA COMPUTACI\u00d3N",
+    "credits": 4,
+    "prereqs": [],
+    "year": "PRIMER A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2501104",
+    "name": "INGL\u00c9S I",
+    "credits": 3,
+    "prereqs": [],
+    "year": "PRIMER A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2501105",
+    "name": "INTRODUCCI\u00d3N A LA PROGRAMACI\u00d3N",
+    "credits": 5,
+    "prereqs": [],
+    "year": "PRIMER A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2501106",
+    "name": "ESTRUCTURAS DISCRETAS I",
+    "credits": 5,
+    "prereqs": [],
+    "year": "PRIMER A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2501207",
+    "name": "ESTRUCTURAS DISCRETAS",
+    "credits": 5,
+    "prereqs": [
+      "2501106",
+      "2501105"
+    ],
+    "year": "PRIMER A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2501208",
+    "name": "PROGRAMACI\u00d3N I",
+    "credits": 5,
+    "prereqs": [
+      "2501105"
+    ],
+    "year": "PRIMER A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2501209",
+    "name": "C\u00c1LCULO EN UNA VARIABLE",
+    "credits": 5,
+    "prereqs": [
+      "2501101"
+    ],
+    "year": "PRIMER A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2501210",
+    "name": "INGL\u00c9S",
+    "credits": 3,
+    "prereqs": [
+      "2501104"
+    ],
+    "year": "PRIMER A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2501211",
+    "name": "LING\u00dc\u00cdSTICA, COMPRENSI\u00d3N Y REDACCI\u00d3N ACAD\u00c9MICA",
+    "credits": 3,
+    "prereqs": [],
+    "year": "PRIMER A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2501212",
+    "name": "REALIDAD NACIONAL",
+    "credits": 2,
+    "prereqs": [],
+    "year": "PRIMER A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2502113",
+    "name": "ARQUITECTURA DE COMPUTADORES",
+    "credits": 4,
+    "prereqs": [
+      "2501207"
+    ],
+    "year": "SEGUNDO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2502114",
+    "name": "PROGRAMACI\u00d3N",
+    "credits": 5,
+    "prereqs": [
+      "2501208"
+    ],
+    "year": "SEGUNDO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2502115",
+    "name": "\u00c1LGEBRA LINEAL",
+    "credits": 4,
+    "prereqs": [
+      "2501209"
+    ],
+    "year": "SEGUNDO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2502116",
+    "name": "C\u00c1LCULO EN VARIAS VARIABLES",
+    "credits": 5,
+    "prereqs": [
+      "2501209"
+    ],
+    "year": "SEGUNDO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2502117",
+    "name": "INGL\u00c9S III",
+    "credits": 3,
+    "prereqs": [
+      "2501210"
+    ],
+    "year": "SEGUNDO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2502118",
+    "name": "CIUDADANIA E INTERCULTURALIDAD",
+    "credits": 2,
+    "prereqs": [],
+    "year": "SEGUNDO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2502219",
+    "name": "ESTRUCTURA DE DATOS",
+    "credits": 4,
+    "prereqs": [
+      "2502114"
+    ],
+    "year": "SEGUNDO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2502220",
+    "name": "REDES Y COMUNICACI\u00d3N",
+    "credits": 4,
+    "prereqs": [
+      "2502113"
+    ],
+    "year": "SEGUNDO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2502221",
+    "name": "SISTEMAS OPERATIVOS",
+    "credits": 4,
+    "prereqs": [
+      "2502113"
+    ],
+    "year": "SEGUNDO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2502222",
+    "name": "LENGUAJES DE PROGRAMACI\u00d3N",
+    "credits": 4,
+    "prereqs": [
+      "2502114"
+    ],
+    "year": "SEGUNDO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2502223",
+    "name": "INGL\u00c9S",
+    "credits": 3,
+    "prereqs": [
+      "2502117"
+    ],
+    "year": "SEGUNDO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2502224",
+    "name": "ECOLOG\u00cdA Y CONSERVACI\u00d3N AMBIENTAL",
+    "credits": 3,
+    "prereqs": [],
+    "year": "SEGUNDO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2503125",
+    "name": "AN\u00c1LISIS Y DISE\u00d1O DE ALGORITMOS",
+    "credits": 4,
+    "prereqs": [
+      "2502219"
+    ],
+    "year": "TERCER A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2503126",
+    "name": "ESTRUCTURA DE DATOS AVANZADOS",
+    "credits": 4,
+    "prereqs": [
+      "2502219"
+    ],
+    "year": "TERCER A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2503127",
+    "name": "COMPILADORES",
+    "credits": 3,
+    "prereqs": [
+      "2502221"
+    ],
+    "year": "TERCER A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2503128",
+    "name": "PROGRAMACI\u00d3N CONCURRENTE Y PARALELA",
+    "credits": 4,
+    "prereqs": [
+      "2502220"
+    ],
+    "year": "TERCER A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2503129",
+    "name": "BASE DE DATOS I",
+    "credits": 4,
+    "prereqs": [
+      "2502114",
+      "2501207"
+    ],
+    "year": "TERCER A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2503130",
+    "name": "ESTAD\u00cdSTICA Y PROBABILIDADES",
+    "credits": 4,
+    "prereqs": [
+      "2502116"
+    ],
+    "year": "TERCER A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2503231",
+    "name": "PROGRAMACI\u00d3N COMPETITIVA",
+    "credits": 3,
+    "prereqs": [
+      "2503125",
+      "2503126"
+    ],
+    "year": "TERCER A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2503232",
+    "name": "INGENIERIA DE SOFTWARE I",
+    "credits": 4,
+    "prereqs": [
+      "2502114"
+    ],
+    "year": "TERCER A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2503233",
+    "name": "SISTEMAS DISTRIBUIDOS",
+    "credits": 4,
+    "prereqs": [
+      "2503128"
+    ],
+    "year": "TERCER A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2503234",
+    "name": "TEOR\u00cdA DE LA COMPUTACI\u00d3N",
+    "credits": 5,
+    "prereqs": [
+      "2503125"
+    ],
+    "year": "TERCER A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2503235",
+    "name": "INTELIGENCIA ARTIFICIAL I",
+    "credits": 4,
+    "prereqs": [
+      "2503130"
+    ],
+    "year": "TERCER A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2503236",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 4,
+    "prereqs": [
+      "2502116",
+      "2502115"
+    ],
+    "year": "TERCER A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2504137",
+    "name": "INVESTIGACI\u00d3N CIENCIA DE LA COMPUTACI\u00d3N",
+    "credits": 4,
+    "prereqs": [
+      "2503125"
+    ],
+    "year": "CUARTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2504138",
+    "name": "INGENIER\u00cdA DE SOFTWARE",
+    "credits": 3,
+    "prereqs": [
+      "2503232"
+    ],
+    "year": "CUARTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2504139",
+    "name": "DESARROLLO DE APLICACIONES WEB",
+    "credits": 3,
+    "prereqs": [
+      "2503129"
+    ],
+    "year": "CUARTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2504140",
+    "name": "BASE DE DATOS",
+    "credits": 4,
+    "prereqs": [
+      "2503129"
+    ],
+    "year": "CUARTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2504141",
+    "name": "\u00c9TICA GENERAL Y DEONDOLOG\u00cdA",
+    "credits": 2,
+    "prereqs": [],
+    "year": "CUARTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2504142",
+    "name": "DISE\u00d1O DE VIDEOJUEGOS (E)",
+    "credits": 4,
+    "prereqs": [],
+    "year": "CUARTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2504143",
+    "name": "INTELIGENCIA ARTIFICIAL II (E)",
+    "credits": 4,
+    "prereqs": [
+      "2503235"
+    ],
+    "year": "CUARTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2504144",
+    "name": "SEGURIDAD EN COMPUTACI\u00d3N (E)",
+    "credits": 4,
+    "prereqs": [
+      "2502220"
+    ],
+    "year": "CUARTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2504245",
+    "name": "PROYECTOS I",
+    "credits": 4,
+    "prereqs": [
+      "2504137"
+    ],
+    "year": "CUARTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2504246",
+    "name": "INTERACCI\u00d3N HUMANO COMPUTADOR",
+    "credits": 4,
+    "prereqs": [
+      "2504139",
+      "2504138"
+    ],
+    "year": "CUARTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2504247",
+    "name": "BIG DATA",
+    "credits": 4,
+    "prereqs": [
+      "2503233"
+    ],
+    "year": "CUARTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2504248",
+    "name": "F\u00cdSICA COMPUTACIONAL",
+    "credits": 3,
+    "prereqs": [
+      "2503236"
+    ],
+    "year": "CUARTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2504249",
+    "name": "POL\u00cdTICAS P\u00daBLICAS Y ANTICORRUPCI\u00d3N",
+    "credits": 3,
+    "prereqs": [],
+    "year": "CUARTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2504250",
+    "name": "DESARROLLO DE APLICACIONES MOVIL (E)",
+    "credits": 4,
+    "prereqs": [],
+    "year": "CUARTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2504251",
+    "name": "DESARROLLO DE TECNOLOG\u00cdAS EMERGENTES (E)",
+    "credits": 4,
+    "prereqs": [],
+    "year": "CUARTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2504252",
+    "name": "INTELIGENCIA ARTIFICIAL III (E)",
+    "credits": 4,
+    "prereqs": [
+      "2504143"
+    ],
+    "year": "CUARTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2505153",
+    "name": "PROYECTOS",
+    "credits": 4,
+    "prereqs": [
+      "2504245"
+    ],
+    "year": "QUINTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2505154",
+    "name": "CLOUD COMPUTING",
+    "credits": 3,
+    "prereqs": [
+      "2504247"
+    ],
+    "year": "QUINTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2505155",
+    "name": "COMPUTACI\u00d3N GR\u00c1FICA",
+    "credits": 4,
+    "prereqs": [
+      "2503126",
+      "2504248"
+    ],
+    "year": "QUINTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2505156",
+    "name": "CIENCIA DE DATOS",
+    "credits": 4,
+    "prereqs": [
+      "2504247",
+      "2504140"
+    ],
+    "year": "QUINTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2505157",
+    "name": "MATEM\u00c1TICA APLICADA A LA COMPUTACI\u00d3N",
+    "credits": 4,
+    "prereqs": [
+      "2504248"
+    ],
+    "year": "QUINTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2505158",
+    "name": "VISI\u00d3N COMPUTACIONAL (E)",
+    "credits": 4,
+    "prereqs": [],
+    "year": "QUINTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2505159",
+    "name": "DESARROLLO DE SOFTWARE EMPRESARIAL (E)",
+    "credits": 4,
+    "prereqs": [],
+    "year": "QUINTO A\u00d1O",
+    "semester": "PRIMER SEMESTRE"
+  },
+  {
+    "id": "2505260",
+    "name": "TRABAJO DE INVESTIGACI\u00d3N",
+    "credits": 5,
+    "prereqs": [
+      "2505153"
+    ],
+    "year": "QUINTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2505261",
+    "name": "VISUALIZACI\u00d3N DE DATOS",
+    "credits": 4,
+    "prereqs": [
+      "2504246"
+    ],
+    "year": "QUINTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2505262",
+    "name": "DESARROLLO EMOCIONAL, GESTI\u00d3N DE CONFLICTOS Y",
+    "credits": 3,
+    "prereqs": [],
+    "year": "QUINTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2505263",
+    "name": "PR\u00c1CTICAS PRE-PROFESIONALES",
+    "credits": 4,
+    "prereqs": [],
+    "year": "QUINTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2505264",
+    "name": "CIBERSEGURIDAD (E)",
+    "credits": 4,
+    "prereqs": [],
+    "year": "QUINTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2505265",
+    "name": "ROB\u00d3TICA (E)",
+    "credits": 4,
+    "prereqs": [],
+    "year": "QUINTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  },
+  {
+    "id": "2505266",
+    "name": "PROCESAMIENTO DE LENGUAJE NATURAL (E)",
+    "credits": 4,
+    "prereqs": [],
+    "year": "QUINTO A\u00d1O",
+    "semester": "SEGUNDO SEMESTRE"
+  }
+]
